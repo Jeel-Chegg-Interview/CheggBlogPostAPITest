@@ -10,10 +10,10 @@ This project does automated API testing of JSON Blob API [https://jsonblob.com/a
 5. Delete the blog post (verify status code is 200) - *Please refer to :* **testDeletePost()**
 6. Verify that the blog post was deleted (verify status code is 404) - *Please refer to :* **testResponseCodeAfterDelete()**
 
-###Test Report (with all 6 conditions PASSED):
+### Test Report (with all 6 conditions PASSED):
 ![Test Report](Test_Result.png)
 
-###Steps to execute this project
+### Steps to execute this project
 1. Clone the Project to local IDE (Eclipse preferred - due to step 2)
 2. After cloning, install TestNG plugin for that IDE (go to https://testng.org/doc/download.html section titled "Eclipse Plug-In")
 Note: TestNG has compatible plugin for Eclipse to execute locally. Not sure to what extent it is supported in other IDEs
