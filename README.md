@@ -14,6 +14,7 @@ This project does automated API testing of JSON Blob API [https://jsonblob.com/a
 ![Test Report](Test_Result.png)
 
 ### Steps to execute this project
+Pre-Requisite: Java Environment
 1. Clone the Project to local IDE (Eclipse preferred - due to step 2)
 2. After cloning, install TestNG plugin for that IDE (go to https://testng.org/doc/download.html section titled "Eclipse Plug-In")
 Note: TestNG has compatible plugin for Eclipse to execute locally. Not sure to what extent it is supported in other IDEs
