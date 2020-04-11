@@ -1,0 +1,8 @@
+/TEST-blogTestChegg.CreateBlogAPI.xml
+/TEST-checkStatus.CheckStatus.xml
+/TEST-createBlog.CreateBlogAPI.xml
+/TEST-deleteRequests.TestDeletePost.xml
+/TEST-deleteRequests.VerifyDeleteComplete.xml
+/TEST-getRequests.CheckStatus.xml
+/TEST-postRequests.CreateBlogAPI.xml
+/TEST-putRequests.UpdateBlogPost.xml
